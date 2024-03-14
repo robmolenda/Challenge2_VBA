@@ -1,4 +1,6 @@
 # Module 2 Challenge - VBA
+The following assignment analyzes stock data for a selection of stocks over a three year period. 
+
 Included in this repo are screenshots of stock data for 2018, 2019 and 2020 with code applied. A .vbs file has been included called 'Rob Molenda - Challenge 2 code', however I have had some difficulty applying that code to my own blank data, so a .vb file has also been included named 'Rob Molenda - Stock Data code'.
 
 # Contributions
