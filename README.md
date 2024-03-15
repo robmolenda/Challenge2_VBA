@@ -14,6 +14,8 @@ Additional assistance was received from the following online sources:
 
 -Repeating macros across all worksheets: https://www.mrexcel.com/board/threads/repeating-excel-macro-across-multiple-worksheets.1028802/
 
+-Finding maxvalue : https://stackoverflow.com/questions/42633273/finding-max-of-a-column-in-vba
+
 -Formating cells as a percentage: https://www.statology.org/vba-percentage-format/
 
 -Formatting color: https://stackoverflow.com/questions/14582498/colour-filling-using-vba-conditional-on-cell-value
